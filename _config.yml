@@ -17,8 +17,8 @@ dark-theme: auto
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: false
-resume-url: assets/resume/resume0515.pdf
+resume-external: true
+resume-url: https://raw.githubusercontent.com/AJLeino/AJLeino.github.io/gh-pages/assets/resume/Resume0515.pdf
 
 url: https://AJLeino.github.io
 # your url: https://USERNAME.github.io
